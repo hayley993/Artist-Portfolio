@@ -1,0 +1,67 @@
+#header {
+overflow: hidden;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+}
+
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+
+hgroup {
+padding-left: 10%;
+text-align: left;
+}
+
+
+a:hover:not(active) {
+  color: orange;
+}
+
+
+.active {
+  color: orange;
+}
+
+
+nav {
+  float: right;
+  padding: 3.5%;
+  font-size: 200%;
+  font-style: bold;
+}
+
+
+.container {
+  border-style: solid;
+  border-color: purple;
+  border-width: thick;
+  background-color: black;
+  height: 20%;
+  border-spacing: none;
+}
+
+
+#portfolio {
+  padding-top: 8%;
+  background-color: grey;
+  height: 700px;
+}
+
+.containerfluid{
+  text-align: center;
+  font-size: 200%;
+  padding-top: 3%;
+}
+
+.img-circle {
+border-radius: 50%;
+height: 200px;
+width: 200px;
+padding: 4.8%;
+}

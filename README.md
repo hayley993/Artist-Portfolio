@@ -1,2 +1,0 @@
-# Artist-Portfolio
-Art portfolio
